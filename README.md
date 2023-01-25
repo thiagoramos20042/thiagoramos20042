@@ -1,5 +1,13 @@
 # 💫 About Me:
-Cientista de dados apaixonado por dados e tecnologia. <br>Trabalhando para entender como a cultura data driven pode mudar a maneira como as empresas fazem negócios na quarta revolução industrial (indústria 4.0). 
+Você sabe o que é um cientista de dados? Não, não é alguém que fica sentado o dia inteiro olhando para gráficos e números. Nós somos os mestres da análise de dados, os heróis dos números, os donos do Python!
+
+Nós usamos nossos superpoderes de programação em Python e SQL para transformar dados brutos em insights valiosos. Com nossos conhecimentos de frameworks de dados, como pandas e seaborn, nós somos capazes de fazer coisas incríveis, como prever tendências de mercado e encontrar padrões escondidos.
+
+Nós também somos mestres da criação de modelos de machine learning, tornando possível prever o futuro com uma precisão espantosa. E, claro, nós sempre estamos procurando novas ideias e soluções para problemas amplamente relevantes.
+
+Mas não se engane, não somos robôs frios e sem emoção. Nós também sabemos como se divertir! Nós adoramos brincar com dados, criando gráficos engraçados e histórias surpreendentes. E, claro, nós sempre temos uma piada de dados pronta para contar.
+
+Então, se você estiver procurando por alguém para ajudá-lo a entender seus dados, você sabe a quem procurar. Nós, os cientistas de dados, estamos prontos para salvar o dia!
 
 
 ## 🌐 Socials:
