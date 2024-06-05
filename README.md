@@ -1,13 +1,13 @@
 # 💫 About Me:
-Você está cansado de trabalhar com dados brutos e não ter informações úteis para tomar decisões estratégicas para o seu negócio? Um Data Specialist pode ajudá-lo a transformar essa situação!
+🔬 Fornecer soluções eficientes e escaláveis que impulsionem a tomada de decisões baseada em dados.
 
-Como especialista em dados, eu tenho a expertise necessária para transformar seus dados em informações valiosas e insights acionáveis. Com habilidades avançadas em lógica de programação, programação orientada a objetos, análise de dados e machine learning, estou preparado para enfrentar os desafios mais complexos e entregar resultados incríveis.
+💻 Como programador em Python, aproveito seu poder e flexibilidade para desenvolver soluções de ponta a ponta. Minha experiência inclui a criação de scripts e pipelines de extração, transformação e carga (ETL), bem como o desenvolvimento de APIs para facilitar o acesso aos dados.
 
-Meu conhecimento em ferramentas como Pandas, Seaborn, Matplotlib, Scikit-learn e Plotly me permite criar visualizações de dados impressionantes e identificar padrões escondidos em seus dados. Além disso, minha paixão por resolver problemas e descobrir soluções inovadoras me torna um parceiro valioso para seu negócio.
+📊 A análise de dados é minha paixão. Utilizando técnicas estatísticas avançadas e ferramentas de visualização, tenho a capacidade de identificar padrões, tendências e insights ocultos nos dados. Ao traduzir informações complexas em relatórios e apresentações claras, ajudo as equipes a tomar decisões informadas e estratégicas.
 
-Ao trabalhar comigo, você terá a certeza de que seus dados serão transformados em informações valiosas, ajudando você a tomar decisões estratégicas informadas. Eu sou um especialista em arte e ciência de dados, combinando habilidades técnicas com criatividade e pensamento crítico para oferecer soluções personalizadas e eficazes.
+🤖 A criação de modelos de machine learning é outra área em que me destaco. Utilizando algoritmos de aprendizado supervisionado e não supervisionado, desenvolvo modelos preditivos e de segmentação que melhoram a compreensão do negócio e impulsionam a eficiência operacional.
 
-Não perca mais tempo tentando lidar com dados brutos sem resultados concretos. Entre em contato comigo, um Data Specialist experiente e apaixonado por dados, e juntos, transformaremos seus dados em informações valiosas para impulsionar seu negócio para o sucesso.
+🚀 Sou apaixonado por aprender e estar atualizado com as mais recentes tendências e tecnologias relacionadas à analise de dados, machine learning, inteligência artificial. Sempre estou em busca de novos desafios que me permitam aplicar minha expertise e colaborar com equipes multidisciplinares em projetos inovadores.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-ramos-oliveira/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@thiagoramos20042) 
