@@ -1,29 +1,49 @@
-# 💫 About Me:
-🔬 Como analista de dados, meu objetivo é fornecer soluções eficientes e escaláveis que impulsionem a tomada de decisões baseadas em dados. Acredito que dados bem analisados são a chave para desbloquear o verdadeiro potencial de qualquer negócio.
+<p align="center">
+  <img src="assets/capa.svg" width="100%" alt="Thiago Oliveira — análise de dados, engenharia de dados e aplicações Python" />
+</p>
 
-💻 Com habilidades avançadas em programação Python, aproveito seu poder e flexibilidade para desenvolver soluções de ponta a ponta. Minha experiência abrange desde a criação de scripts e pipelines de extração, transformação e carga (ETL), até o desenvolvimento de APIs robustas que facilitam o acesso e a integração dos dados. Isso garante que as equipes tenham acesso contínuo e eficiente às informações necessárias para suas operações diárias.
+# Thiago Oliveira
 
-📊 A análise de dados é minha paixão. Utilizando técnicas estatísticas avançadas e ferramentas de visualização como Tableau e Power BI, sou capaz de identificar padrões, tendências e insights ocultos nos dados. Tenho a capacidade de transformar grandes volumes de dados brutos em informações acionáveis, criando dashboards interativos e relatórios detalhados que ajudam as equipes a tomar decisões informadas e estratégicas. Minha abordagem centrada no cliente assegura que as análises sejam sempre relevantes e diretamente aplicáveis às necessidades do negócio.
+**Análise de dados · Engenharia de dados · Aplicações Python**
 
-🤖 A criação de modelos de machine learning é outra área em que me destaco. Utilizando algoritmos de aprendizado supervisionado e não supervisionado, desenvolvo modelos preditivos e de segmentação que melhoram a compreensão do negócio e aumentam a eficiência operacional. Tenho experiência em ferramentas como TensorFlow e Scikit-Learn, e aplico técnicas como regressão, classificação, clustering e redes neurais para resolver problemas complexos e fornecer insights valiosos.
+Desenvolvo projetos que conectam coleta, tratamento, análise e apresentação de dados. Aqui você encontra pipelines ETL, estudos de machine learning, dashboards e aplicações com Python — com código e materiais para explorar cada trabalho.
 
-🛠️ Além disso, possuo experiência em ferramentas e plataformas de big data como Hadoop e Spark, o que me permite trabalhar com grandes volumes de dados e executar análises complexas em escala. Entendo a importância da qualidade e governança dos dados, e implemento práticas robustas para assegurar a integridade e confiabilidade dos dados que utilizo.
+[LinkedIn](https://www.linkedin.com/in/thiago-ramos-oliveira/) · [Artigos no Medium](https://medium.com/@thiagoramos20042) · [Catálogo completo](PROJETOS.md)
 
-🚀 Sou apaixonado por aprender e me manter atualizado com as mais recentes tendências e tecnologias relacionadas à análise de dados, machine learning e inteligência artificial. Estou constantemente buscando aprimorar minhas habilidades e expandir meu conhecimento. Participo de conferências, cursos online e grupos de estudo para estar sempre na vanguarda das inovações no campo da análise de dados. Meu compromisso com o desenvolvimento contínuo me permite trazer as melhores práticas e soluções inovadoras para os projetos em que trabalho.
+## Projetos em destaque
 
-👥 Além das habilidades técnicas, valorizo a colaboração e a comunicação eficaz. Trabalho bem em equipes multidisciplinares, compartilhando conhecimento e insights para alcançar objetivos comuns. Acredito que uma abordagem colaborativa é fundamental para o sucesso de qualquer projeto de análise de dados, pois combina diferentes perspectivas e fortalece a tomada de decisões.
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/thiagoramos20042/copa_dos_dados"><img src="assets/copa.svg" width="100%" alt="Copa dos Dados: modelos de gols e simulação de partidas em Streamlit" /></a></td>
+    <td width="50%"><a href="https://github.com/thiagoramos20042/analise_rfm"><img src="assets/rfm.svg" width="100%" alt="Segmentação RFM: comportamento de compra e segmentos de clientes" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/thiagoramos20042/ETL_F1"><img src="assets/f1.svg" width="100%" alt="ETL de Fórmula 1: resultados, classificações e armazenamento em SQLite" /></a></td>
+    <td><a href="https://github.com/thiagoramos20042/e-commerce"><img src="assets/entregas.svg" width="100%" alt="E-commerce: análise e classificação de atrasos de entrega" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/thiagoramos20042/sistema_recomendacao"><img src="assets/recomendacao.svg" width="100%" alt="Recomendação de produtos de treino com vizinhos próximos" /></a></td>
+    <td><a href="https://github.com/thiagoramos20042/case"><img src="assets/api.svg" width="100%" alt="Sales Insights: API de vendas com FastAPI e integração de IA" /></a></td>
+  </tr>
+</table>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-ramos-oliveira/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@thiagoramos20042) 
+Cada repositório apresenta seu objetivo, os arquivos principais e orientações para explorar o código. Os projetos incluem aplicações, experimentos e trabalhos de formação; o contexto de cada um está indicado na documentação.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thiagoramos20042&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thiagoramos20042&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoramos20042&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Explore por área
 
----
-[![](https://visitcount.itsvg.in/api?id=thiagoramos20042&icon=0&color=0)](https://visitcount.itsvg.in)
+| Área | Trabalhos para começar |
+| --- | --- |
+| **Engenharia de dados** | [ETL de Fórmula 1](https://github.com/thiagoramos20042/ETL_F1) · [Commodities](https://github.com/thiagoramos20042/ETL) · [Snowflake](https://github.com/thiagoramos20042/snowflake_estudos) |
+| **Análise e visualização** | [Segmentação RFM](https://github.com/thiagoramos20042/analise_rfm) · [Power BI](https://github.com/thiagoramos20042/dashboards_power_bi) · [Imóveis em São Paulo](https://github.com/thiagoramos20042/pythonProject10) |
+| **Machine learning** | [Entregas no e-commerce](https://github.com/thiagoramos20042/e-commerce) · [Recomendação](https://github.com/thiagoramos20042/sistema_recomendacao) · [Regressão em marketing](https://github.com/thiagoramos20042/marketing) |
+| **Aplicações e automação** | [Sales Insights API](https://github.com/thiagoramos20042/case) · [Consulta CNPJ](https://github.com/thiagoramos20042/cnpj) · [Curadoria de artigos](https://github.com/thiagoramos20042/people_analytics_blog) |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Ferramentas presentes nos projetos
+
+**Dados:** Python, pandas, NumPy, SQL e SQLite.  
+**Análise e modelos:** Matplotlib, seaborn, Plotly, scikit-learn e Power BI.  
+**Aplicações e integração:** Streamlit, FastAPI, SQLAlchemy, requests e Snowflake Connector.
+
+## Vamos conversar
+
+Para trocar ideias sobre dados, aplicações em Python ou projetos, fale comigo pelo [LinkedIn](https://www.linkedin.com/in/thiago-ramos-oliveira/). Também compartilho estudos e experiências no [Medium](https://medium.com/@thiagoramos20042).
