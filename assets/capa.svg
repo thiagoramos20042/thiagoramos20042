@@ -1,10 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
-<title id="title">Thiago Oliveira — projetos de dados e Python</title><desc id="desc">Portfólio de análise de dados, engenharia de dados e aplicações Python. Da coleta à decisão.</desc>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#153440"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#b9e2e1" stroke-opacity=".045"/></pattern></defs>
-<rect width="1200" height="330" rx="24" fill="url(#bg)"/><rect width="1200" height="330" rx="24" fill="url(#grid)"/>
-<rect x="52" y="48" width="5" height="38" rx="2" fill="#5eead4"/>
-<g font-family="Segoe UI,Arial,sans-serif"><text x="74" y="70" fill="#94a3b8" font-size="15" letter-spacing="3">PORTFÓLIO DE PROJETOS</text>
-<text x="52" y="145" fill="#f8fafc" font-size="57" font-weight="700">Thiago Oliveira</text>
-<text x="54" y="190" fill="#b7ced5" font-size="23">Da coleta à análise. Dos dados à aplicação.</text>
-<g font-size="14" font-weight="600" fill="#d5f8f0"><rect x="54" y="233" width="162" height="38" rx="19" fill="#1f434b"/><text x="75" y="257">ANÁLISE DE DADOS</text><rect x="228" y="233" width="200" height="38" rx="19" fill="#1f434b"/><text x="250" y="257">ENGENHARIA DE DADOS</text><rect x="440" y="233" width="178" height="38" rx="19" fill="#1f434b"/><text x="463" y="257">APLICAÇÕES PYTHON</text></g></g>
-<g transform="translate(800 75)"><rect width="335" height="187" rx="17" fill="#0f2632" stroke="#40606c"/><path d="M28 150 H305 M28 113 H305 M28 76 H305 M28 39 H305" stroke="#27434e"/><path d="M32 139 L81 119 L129 132 L178 83 L225 96 L278 42" fill="none" stroke="#5eead4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><g fill="#5eead4"><circle cx="81" cy="119" r="5"/><circle cx="178" cy="83" r="5"/><circle cx="278" cy="42" r="6"/></g><rect x="32" y="159" width="56" height="5" rx="2" fill="#496470"/><rect x="100" y="159" width="36" height="5" rx="2" fill="#496470"/></g></svg>
+  <title id="title">Thiago Oliveira — Data Science, IA e Automações</title>
+  <desc id="desc">Portfólio de análises, modelos preditivos, inteligência artificial aplicada e automações com Python.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#10152b"/><stop offset="1" stop-color="#183443"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#b9e2e1" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1200" height="330" rx="24" fill="url(#bg)"/><rect width="1200" height="330" rx="24" fill="url(#grid)"/>
+  <rect x="52" y="48" width="5" height="38" rx="2" fill="#5eead4"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="74" y="70" fill="#a6b3d0" font-size="15" letter-spacing="3">PORTFÓLIO DE PROJETOS</text>
+    <text x="52" y="145" fill="#f8fafc" font-size="57" font-weight="700">Thiago Oliveira</text>
+    <text x="54" y="190" fill="#bfcedf" font-size="23">Data Science, IA e automações com Python.</text>
+    <g font-size="14" font-weight="600">
+      <rect x="54" y="233" width="155" height="38" rx="19" fill="#1d454b"/><text x="79" y="257" fill="#baffed">DATA SCIENCE</text>
+      <rect x="221" y="233" width="221" height="38" rx="19" fill="#343456"/><text x="243" y="257" fill="#ddd4ff">INTELIGÊNCIA ARTIFICIAL</text>
+      <rect x="454" y="233" width="155" height="38" rx="19" fill="#4a3b2d"/><text x="478" y="257" fill="#ffe1a3">AUTOMAÇÕES</text>
+    </g>
+  </g>
+  <g transform="translate(800 75)">
+    <rect width="335" height="187" rx="17" fill="#112133" stroke="#405776"/>
+    <text x="24" y="28" font-family="Segoe UI,Arial,sans-serif" fill="#a8bdd1" font-size="12" letter-spacing="1.1">DADOS → MODELOS → AÇÕES</text>
+    <g fill="none" stroke="#526d88" stroke-width="1.5" opacity=".7">
+      <path d="M49 65L165 81M49 65L165 135M49 106L165 81M49 106L165 135M49 147L165 81M49 147L165 135M165 81L281 77M165 81L281 139M165 135L281 77M165 135L281 139"/>
+    </g>
+    <g fill="#5eead4"><circle cx="49" cy="65" r="8"/><circle cx="49" cy="106" r="8"/><circle cx="49" cy="147" r="8"/></g>
+    <g fill="#c4b5fd"><circle cx="165" cy="81" r="11"/><circle cx="165" cy="135" r="11"/></g>
+    <g fill="#fbbf24"><circle cx="281" cy="77" r="8"/><circle cx="281" cy="139" r="8"/></g>
+  </g>
+</svg>
